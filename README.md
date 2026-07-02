@@ -1,21 +1,46 @@
 # Hi, I am HKM Fuyad Islam
 
-I am a developer passionate about AI, cybersecurity, and building intelligent systems.
+A developer focused on AI systems, cybersecurity, and data-driven applications.
+Currently building intelligent agents and network analysis tools using Python.
 
 ## Projects
 
 ### Attack-Defense Agent
-An AI-powered cybersecurity simulation built with LangGraph and Groq.
-Two AI agents work together. One generates detailed attack plans against any target system 
-covering reconnaissance, exploitation, privilege escalation, and data exfiltration. 
-The other generates concrete defense strategies against each attack step.
+An AI-powered cybersecurity simulation that models real-world attack and defense scenarios.
+The system uses two AI agents orchestrated with LangGraph. The attacker agent generates 
+a detailed step-by-step attack plan against any target system, covering reconnaissance, 
+vulnerability exploitation, privilege escalation, and data exfiltration. The defender 
+agent analyzes the attack plan and produces concrete countermeasures for each stage.
 
 Tech Stack: Python, LangGraph, Groq, Llama 3.3 70B, Streamlit
+Repository: https://github.com/tausif112/attack-defense-agent
 
-GitHub: https://github.com/tausif112/attack-defense-agent
+### Packet Logger
+A Python tool for capturing and analyzing network traffic from live sessions or pcap files.
+Exports captured data in JSON, CSV, and pcap formats with full support for IP, TCP, UDP, 
+and DNS protocols.
+
+Tech Stack: Python
+Repository: https://github.com/fuyadislam/Packet-Logger
+
+### Network Traffic Analysis and Anomaly Detection
+A Python-based system that processes network traffic data to identify patterns and anomalies.
+Analyzes JSON and JSONL datasets containing timestamps, IP addresses, and protocol 
+information to generate structured reports and detect irregular behavior.
+
+Tech Stack: Python
+Repository: https://github.com/fuyadislam/Network-Traffic-Analysis-Anomaly-Detection
+
+### Formula 1 Race Prediction
+A Python-based simulation system that predicts Formula 1 race results using practice 
+session data, qualifying performance, track conditions, and weather variables.
+
+Tech Stack: Python
+Repository: https://github.com/fuyadislam/formula_1_prediction
 
 ## Skills
-Python, LangGraph, Git, Streamlit, AI Agents, Cybersecurity
+Python, LangGraph, Groq, Streamlit, Network Analysis, Cybersecurity, Git, Data Analysis
 
-## Connect
-LinkedIn: www.linkedin.com/in/fuyadislam
+## Contact
+LinkedIn: https://www.linkedin.com/in/fuyadislam
+Email: fuyadislam1@gmail.com
