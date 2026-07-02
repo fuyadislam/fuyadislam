@@ -17,19 +17,18 @@ Repository: https://github.com/tausif112/attack-defense-agent
 
 ### Packet Logger
 A Python tool for capturing and analyzing network traffic from live sessions or pcap files.
-Exports captured data in JSON, CSV, and pcap formats with full support for IP, TCP, UDP, 
-and DNS protocols.
+Traffic was captured and inspected using Wireshark before being processed and exported 
+in JSON, CSV, and pcap formats with full support for IP, TCP, UDP, and DNS protocols.
 
-Tech Stack: Python
+Tech Stack: Python, Wireshark
 Repository: https://github.com/fuyadislam/Packet-Logger
 
 ### Network Traffic Analysis and Anomaly Detection
-A Python-based system that processes and analyzes network traffic data to identify patterns 
-and anomalies. Traffic was captured and inspected using Wireshark before being processed 
-through JSON and JSONL datasets containing timestamps, IP addresses, and protocol 
+A Python-based system that processes network traffic data to identify patterns and anomalies.
+Analyzes JSON and JSONL datasets containing timestamps, IP addresses, and protocol 
 information to generate structured reports and detect irregular network behavior.
 
-Tech Stack: Python, Wireshark
+Tech Stack: Python
 Repository: https://github.com/fuyadislam/Network-Traffic-Analysis-Anomaly-Detection
 
 ### Formula 1 Race Prediction
