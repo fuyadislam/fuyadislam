@@ -24,11 +24,12 @@ Tech Stack: Python
 Repository: https://github.com/fuyadislam/Packet-Logger
 
 ### Network Traffic Analysis and Anomaly Detection
-A Python-based system that processes network traffic data to identify patterns and anomalies.
-Analyzes JSON and JSONL datasets containing timestamps, IP addresses, and protocol 
-information to generate structured reports and detect irregular behavior.
+A Python-based system that processes and analyzes network traffic data to identify patterns 
+and anomalies. Traffic was captured and inspected using Wireshark before being processed 
+through JSON and JSONL datasets containing timestamps, IP addresses, and protocol 
+information to generate structured reports and detect irregular network behavior.
 
-Tech Stack: Python
+Tech Stack: Python, Wireshark
 Repository: https://github.com/fuyadislam/Network-Traffic-Analysis-Anomaly-Detection
 
 ### Formula 1 Race Prediction
@@ -39,7 +40,8 @@ Tech Stack: Python
 Repository: https://github.com/fuyadislam/formula_1_prediction
 
 ## Skills
-Python, LangGraph, Groq, Streamlit, Network Analysis, Cybersecurity, Git, Data Analysis
+Python, LangGraph, Groq, Streamlit, Wireshark, Network Analysis, Cybersecurity, 
+Git, Data Analysis
 
 ## Contact
 LinkedIn: https://www.linkedin.com/in/fuyadislam
