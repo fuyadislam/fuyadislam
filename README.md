@@ -42,7 +42,7 @@
 
 ### Right now
 
-- [x] BSc (Hons) Computing, Digital Forensics & Cybersecurity at TU Dublin (2025 to 2029)
+- [x] BSc (Hons) Digital Forensics & Cybersecurity at TU Dublin (2025 to 2029)
 - [x] Peer mentoring at TU Dublin since Sep 2026
 - [ ] Building more with LLM agents and network analysis in Python
 
