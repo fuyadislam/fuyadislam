@@ -55,7 +55,7 @@ I am a Digital Forensics and Cybersecurity student at TU Dublin, in my second ye
 - Year 2 of BSc (Hons) Digital Forensics and Cybersecurity at TU Dublin
 - Studying Scripting for Cyber Security, Network Security and Security Administration
 - Treasurer of the ISoc at TU Dublin Blanchardstown and a Peer Mentor
-- Looking for internships in cybersecurity, software engineering and AI
+- Working on new projects in AI agents and network security
 
 ### Certificates
 
